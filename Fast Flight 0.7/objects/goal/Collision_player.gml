@@ -1,0 +1,26 @@
+switch(room){
+	case(rm1):
+	room_goto(rm2)
+	break;
+	case(rm2):
+	room_goto(rm3)
+	break;
+	case(rm3):
+	room_goto(rm4)
+	break;
+	case(rm4):
+	room_goto(rm5)
+	break;
+	case(rm5):
+	room_goto(rm6)
+	break;
+	case(rm6):
+	room_goto(rm7)
+	break;
+	case(rm7):
+	room_goto(rm8)
+	break;
+	case(rm8):
+	room_goto(rm9)
+	break;
+}
