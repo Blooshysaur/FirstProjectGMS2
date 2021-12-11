@@ -1,1 +1,0 @@
-global.spd = 0
