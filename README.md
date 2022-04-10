@@ -1,3 +1,6 @@
 # FirstProjectGMS2
-A little game i made to learn GML (language in GMS). I never finished it since all it was missing to me is levels
-and it didn't interest me.Feel free to take over the project and do whatever you want.
+My first game i've ever used using Game Maker Studio 2.
+A little game i made to learn GML (language in GMS). I never finished it since all i was inexperienced and i quickly lost interest in it after making a few levels.
+
+You can use this project for anything you want as long you credit me for the original version.
+Feel free to update and make it better if you want to.
